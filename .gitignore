@@ -1,0 +1,27 @@
+# WordPress
+wordpress/
+*.sql
+*.tar.gz
+
+# OS
+.DS_Store
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+debug.log
+
+# Dependencies
+node_modules/
+
+# Build artifacts
+/dist
+/build
